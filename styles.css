@@ -1,0 +1,9 @@
+body{
+    background: black;
+}
+
+rect{
+    transform: rotate(-90deg);
+
+    transform-origin: center center;
+}
