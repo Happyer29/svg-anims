@@ -5,5 +5,5 @@ body{
 rect{
     transform: rotate(-90deg);
 
-    transform-origin: center center;
+    transform-origin: left top;
 }
